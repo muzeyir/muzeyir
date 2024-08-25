@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **none**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **web programming**
 
