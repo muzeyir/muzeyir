@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uzeyir Mammadov</h1>
+<h1 align="center">Uzeyir Mammadov</h1>
 <h3 align="center">A developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzeyir&label=Profile%20views&color=0e75b6&style=flat" alt="muzeyir" /> </p>
@@ -7,18 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/uzeyirr17" target="blank"><img src="https://img.shields.io/twitter/follow/uzeyirr17?logo=twitter&style=for-the-badge" alt="uzeyirr17" /></a> </p>
 
-- 🔭 I’m currently working on **none**
+- 🔭 I’m currently working on **My Machine Learning Course Capstone Projects**
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **web programming**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **mmmduzeyir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/uzeyirr17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uzeyirr17" height="30" width="40" /></a>
-<a href="https://instagram.com/uzeyirr.17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzeyirr.17" height="30" width="40" /></a>
+<a href="https://instagram.com/uzeyrr.o17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uzeyirr.17" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
